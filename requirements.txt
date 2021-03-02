@@ -1,0 +1,13 @@
+Flask==0.10.1
+Werkzeug==0.16.0
+Flask-SQLAlchemy==2.2
+mysqlclient==1.4.6
+Flask-WTF==0.14.2
+Flask-Session==0.3.1
+redis==2.10.6
+Flask-Script==2.0.5
+Flask-Migrate==2.1.0
+Pillow==6.2.2
+fdfs-client-py==1.2.6
+celery==3.1.25
+python-alipay-sdk==1.8.0
